@@ -1,0 +1,28 @@
+_repo: American-Historical-and-Literary-Curiosities-Part-22.--13-Second-Series_7922
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, J. Jay (John Jay)
+    aliases:
+    - Smith, John Jay
+    - Smith, Jonathan Jay
+    birthdate: 1798
+    deathdate: 1881
+    gutenberg_agent_id: '4711'
+    url: http://www.gutenberg.org/2009/agents/4711
+description: ''
+gutenberg_issued: '2004-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7922'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Sources'
+- !lcsh 'Autographs -- United States -- Facsimiles'
+- !lcc 'Z'
+- GITenberg
+title: "American Historical and Literary Curiosities, Part 22.\r\nSecond Series"
+url: http://www.gutenberg.org/ebooks/7922
